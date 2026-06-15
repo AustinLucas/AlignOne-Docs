@@ -24,7 +24,7 @@ retrying the old link — ask staff to **resend** a fresh invite.
 ## I can't sign in
 
 1. Make sure you're using the **same email** your invite was sent to.
-2. Use **Sign in with KFA** and your email and password.
+2. Use **Sign in** and your email and password.
    <!-- @frontend: confirm the sign-in button label and the password-reset path -->
 3. If you've forgotten your password, use the **reset password** option on the sign-in
    screen. <!-- @frontend: confirm where password reset lives -->

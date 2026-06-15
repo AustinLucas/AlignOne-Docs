@@ -21,7 +21,7 @@ after 7 days), so use yours promptly.
 2. The link opens AlignOne and asks you to **set a password**. Choose a password and
    confirm it.  <!-- @frontend: confirm the registration screen heading + password rules -->
 3. Submit to create your account. AlignOne signs you in and finishes setting you up.
-4. After this, sign in any time from the home page with **Sign in with KFA** and your
+4. After this, sign in any time from the home page with **Sign in** and your
    email and password.  <!-- @frontend: confirm the sign-in button label -->
 
 ## What you'll see
