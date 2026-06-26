@@ -3,15 +3,13 @@ status: needs-ui
 primary: frontend
 ---
 
-<!-- @backend verified: completion is a separate state from claiming; once complete the
-     need is done. Confirm whether the claimant or only staff/lead can mark complete. -->
-<!-- @backend: who can mark a need complete — the claiming volunteer, a Lead Volunteer, or staff only? -->
-
 # Mark a need complete
 
-**Who this is for:** Volunteers who claimed the need (and advocates / program staff).
-**When to use it:** After you've taken care of a need, so the family and team know it's done.
-**Before you start:** You've [claimed a need](claim-a-need.md) and finished the task.
+**Who this is for:** Lead Volunteers, advocates, and program staff — the people who can
+update a need.
+**When to use it:** Once a need has been taken care of, so the family and team know it's done.
+**Before you start:** The task has been handled. (A support volunteer who finished a task
+lets a Lead Volunteer or staff member know so they can close it out.)
 
 !!! info "Screenshots coming"
     These steps are described in words for now; annotated screenshots land once the screens
@@ -19,14 +17,19 @@ primary: frontend
 
 ## Steps
 
-1. Open **Needs** and find the need you handled.
+1. Open **Needs** and find the need.
 2. Open it and choose **Mark complete**.  <!-- @frontend: confirm the button label + confirm-dialog copy -->
-3. Confirm. The need is recorded as **complete**.
+3. Confirm. The need is closed out and drops off the open list.
 
 ## What you'll see
 
-The need moves to **complete** and is no longer in the open or claimed lists. The family
-and your team can see the task is finished.
+The need is marked done and no longer appears among open or claimed needs. The family and
+team can see the task is finished.
+
+!!! note "Who can do this"
+    Updating a need — including closing it out — is limited to **Lead Volunteers, advocates,
+    and program staff**. A support volunteer who completed a task asks one of them to mark it
+    done.
 
 !!! tip "Add a quick note"
     If there's anything the family should know — leftovers in the fridge, where you left a

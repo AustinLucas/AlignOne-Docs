@@ -16,21 +16,21 @@ and you're part of a family's circle.
 
 ## What a post is
 
-A **post** is an update shared with your care circle — an announcement, a general update,
-a prayer request, a celebration, or a need.
-<!-- @backend: confirm the canonical post types shown to volunteers -->
-You can **react** to a post and add a **comment**.
+A **post** is an update shared with your care circle — for example an announcement, a
+general update, a prayer request, or a celebration. Posts are freeform (a title and a
+message), and program staff can **pin** an important one to the top. You can add a
+**comment** to join the conversation.
 
 ## Steps
 
 1. Open the **feed** (or **Posts**) from the main menu.  <!-- @frontend: confirm the nav label and where it lives -->
 2. Read the latest posts — newest first.
-3. To respond, **react** to a post or open it and add a **comment**, then send.
-   <!-- @frontend: confirm the react/comment controls and labels -->
+3. To respond, open a post and add a **comment**, then send.
+   <!-- @frontend: confirm the comment control and label -->
 
 ## What you'll see
 
-The circle's recent posts, with reactions and comments. Your comment appears under the
+The circle's recent posts and their comments. Your comment appears under the
 post for the rest of the circle to see.
 
 !!! tip "A little encouragement goes a long way"

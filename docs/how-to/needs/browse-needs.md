@@ -22,9 +22,9 @@ and you're assigned to a family.
    assigned to — you won't see other families' needs.
 2. Look for needs marked **open** — the ones nobody has claimed yet.
    <!-- @frontend: confirm how open vs. claimed/completed needs are labelled or filtered -->
-3. Each need shows its **type** (such as a meal, a ride, supplies, an errand, yardwork, or
-   prayer), **when** it's needed, and a short description.
-   <!-- @backend: confirm the canonical need types/categories shown to volunteers -->
+3. Each need shows its **type** — from the program's support categories (for example
+   **Meals, Transportation, Childcare, Companionship, Errands,** or **Home Maintenance**;
+   staff can adjust this list) — plus **when** it's needed and a short description.
 4. Tap any need to open it and read the full details before deciding.
 
 ## What you'll see
